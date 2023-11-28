@@ -84,9 +84,10 @@ nav ul li a {
 }
 
 .content p {
-    max-width: 100%; /* Adjust as needed */
+    max-width: 98%; /* Can Adjust */
     line-height: 28px;
     opacity: 0;
+    margin-bottom: 15px;
 }
 
 .links {
@@ -856,10 +857,15 @@ height: 400px;
         }
         
         .spanner{
-            color: #ffffbf;
+            color: black;
             font-weight: bolder;
             font-size: 17px;
             letter-spacing: 0.9px;
+
+            border-width: 3px;
+            border-style: none;
+            border-color: red;
+            background-color: white;
         }
 
         
@@ -871,7 +877,13 @@ height: 400px;
 
        
         .hbod{
-            margin: 10px;
+            margin: 7px;
+            margin-top: 23px;
+            
         }
 
+        .divider{
+            margin-bottom: 12px;
+        
+        }
         
