@@ -266,10 +266,13 @@ p.slide-left {
 }
 
 .bout-content p {
-    font-size: 18px;
-    line-height: 1.6;
+
     margin-bottom: 15px;
-    color: black;
+    font-size: 17px;
+    line-height: 27.2px;
+        color: rgb(79, 86, 85);
+    font-weight: 400;
+    
 }
 
 .splitb {
@@ -359,10 +362,22 @@ p.slide-left {
     margin-bottom: 20px;
 }
 
+.bottom{
+    font-size: 17px;
+    line-height: 27.2px;
+        color: rgb(79, 86, 85);
+    font-weight: 400;
+    margin-top: 20px; 
+}
+
 .about-content p {
-    font-size: 18px;
-    line-height: 1.6;
+    
+    
     margin-bottom: 15px;
+    font-size: 17px;
+    line-height: 27.2px;
+        color: rgb(79, 86, 85);
+    font-weight: 400;
     
     
 }
@@ -887,3 +902,10 @@ height: 400px;
         
         }
         
+        .foto{
+            font-size: 14px;
+    line-height: 27.2px;
+        color: black;
+    font-weight: 400;
+
+        }
