@@ -282,7 +282,7 @@ p.slide-left {
 .try {
     background-color: #021691;
     border-radius: 8px;
-    box-shadow: 0 32px 64px rgba(0, 0, 0, 8);
+    box-shadow: 0 16px 8px rgba(0, 0, 0, 8);
     padding: 20px;
     margin-bottom: 15px;
     width: 100%;
@@ -376,7 +376,7 @@ p.slide-left {
 .cry {
     background-color: #021691;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 16px 8px rgba(0, 0, 0, 0.5);
     padding: 20px;
     margin-bottom: 15px;
     width: 100%;
@@ -385,10 +385,10 @@ p.slide-left {
 }
 
 .cry h3 {
-    margin-top: 20px;
+    margin-top: 10px;
     color:#ffffbf;
     font-size: 20px;
-    line-height: 40px;
+    margin-bottom: 5px;
     font-weight: 600;
     
 }
