@@ -306,6 +306,9 @@ p.slide-left {
   
    .try p{
     color: #fff;
+    line-height: 27.2px;
+    font-weight: 400;
+    
    }
    .foote {
     background-color:grey;
@@ -411,6 +414,9 @@ p.slide-left {
 }
 .cry p{
     color: #fff;
+    line-height: 27.2px;
+    font-weight: 400;
+    
 }
 
 @media (min-width: 768px) {
