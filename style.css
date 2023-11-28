@@ -299,6 +299,7 @@ p.slide-left {
     margin-bottom: 12px;
    }
 
+  
    .try p{
     color: #fff;
    }
@@ -860,3 +861,12 @@ height: 400px;
             font-size: 17px;
             letter-spacing: 0.9px;
         }
+
+        
+        .imager{
+            margin-right: 8px;
+           
+            
+        }
+
+       
