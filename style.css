@@ -336,7 +336,7 @@ p.slide-left {
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1500px) {
     .splitb {
         flex-direction: column;
     }
