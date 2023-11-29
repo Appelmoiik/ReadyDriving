@@ -250,7 +250,12 @@ p.slide-left {
 
 .bout-us {
     padding: 40px 20px;
-    background-color: whitesmoke
+    background-color: whitesmoke;
+    background-image: linear-gradient(#e1f5fe,rgba(5,0,136,0.5)), url(b5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+       
+    
 }
 
 .bout-content {
