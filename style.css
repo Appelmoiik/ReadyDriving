@@ -692,6 +692,7 @@ height: 400px;
     
     bottom: 0;
     width: 100%;
+    
 }
 
 
@@ -924,6 +925,7 @@ height: 400px;
             margin: 7px;
             margin-top: 23px;
             
+            
         }
 
         .divider{
@@ -937,4 +939,12 @@ height: 400px;
         color: black;
     font-weight: 400;
 
+        }
+
+        .bod{
+            background-color: whitesmoke;
+    background-image: linear-gradient(#e1f5fe,rgba(5,0,136,0.5)), url(b5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
         }
